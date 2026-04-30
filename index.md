@@ -7,15 +7,12 @@ composite materials, and analytical characterization. Proven ability to control 
 variability, and translate materials research into manufacturable systems. Experienced in developing
 biodegradable composites, polymer processing, and laboratory support for high-reliability applications
 
----
 ## Research Focus
 - Plastic extraction and recycling from mixed MSW  
 - Biochar production and characterization  
 - Biomass valorization using green solvents (DES)  
 - Sustainable materials and circular economy
 - Green chemistry  
-
----
 
 ## Current Work
 - Thermochemical conversion of waste streams  
