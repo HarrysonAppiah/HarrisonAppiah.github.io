@@ -1,6 +1,6 @@
 
 
-**PhD in Environmental and Material Science | Green Chemistry | Waste Valorization | Sustainable Materials**
+PhD in Environmental and Material Science | Green Chemistry | Waste Valorization | Sustainable Materials
 
 Materials and chemical laboratory scientist with strong hands-on experience in wet chemistry, polymer and
 composite materials, and analytical characterization. Proven ability to control chemical processes, troubleshoot
