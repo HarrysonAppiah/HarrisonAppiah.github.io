@@ -3,60 +3,40 @@ layout: page
 title: "Home"
 ---
 
-<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 40px; padding: 30px 0;">
-
-<!-- LEFT SIDE -->
-<div style="flex: 1; min-width: 280px;">
-
 # Harrison Appiah
 
-### PhD Researcher | Environmental Science  
-Waste Valorization • Biochar • Sustainable Materials
+**PhD in Environmental Science | Waste Valorization | Sustainable Materials**
 
-I focus on converting municipal solid waste and agroforestry residues into valuable materials and chemicals using thermochemical and green solvent-based processes.
+I am a researcher focused on converting municipal solid waste and agroforestry residues into high-value products, including biochar, composites, and platform chemicals such as furfural.
 
-<br>
+---
 
-<!-- BUTTONS -->
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+## Research Focus
 
-<a href="/Harrison.pdf" target="_blank"
-style="padding: 10px 16px; background: #1f2937; color: white; border-radius: 6px; text-decoration: none;">
-📄 Resume
-</a>
+- Plastic extraction and recycling from mixed MSW  
+- Biochar production and characterization  
+- Biomass valorization using green solvents (DES)  
+- Sustainable materials and circular economy  
 
-<a href="https://github.com/HarrysonAppiah" target="_blank"
-style="padding: 10px 16px; background: #111827; color: white; border-radius: 6px; text-decoration: none;">
-💻 GitHub
-</a>
+---
 
-<a href="https://www.linkedin.com/in/harrison-appiah-0a8a521a3/" target="_blank"
-style="padding: 10px 16px; background: #0a66c2; color: white; border-radius: 6px; text-decoration: none;">
-🔗 LinkedIn
-</a>
+## Current Work
 
-</div>
+Graduate Research Assistant at the **University of Idaho**, working on:
+- Thermochemical conversion of waste streams  
+- Polymer recovery and composite development  
+- Advanced characterization (GC-MS, DSC, TGA, BET)
 
-</div>
+---
 
-<!-- RIGHT SIDE (IMAGE CARD) -->
-<div style="flex-shrink: 0;">
+## Publications & Projects
 
-<div style="
-background: white;
-padding: 12px;
-border-radius: 16px;
-box-shadow: 0 10px 25px rgba(0,0,0,0.15);
-">
+Coming soon.
 
-<img src="/assets/profile.jpg" alt="Harrison Appiah"
-style="width: 220px; border-radius: 12px; display: block;">
+---
 
-</div>
+## Contact
 
-</div>
-
-</div>
-
+- Email: Appiah.harrison@yahoo.com  
 - GitHub: https://github.com/HarrysonAppiah  
-- LinkedIn: https://www.linkedin.com/in/harrison-appiah-0a8a521a3/
+- LinkedIn: https://www.linkedin.com/in/harrison-appiah-0a8a521a3/a3/
