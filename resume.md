@@ -6,7 +6,7 @@ permalink: /resume/
 
 # Harrison Appiah
 
-Moscow, ID | 304-282-2934 | Appiah.harrison@yahoo.com | LinkedIn | ORCID
+Moscow, ID | 304-282-234 | 
 
 ---
 
