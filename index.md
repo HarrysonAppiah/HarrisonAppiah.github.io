@@ -6,7 +6,7 @@ PhD in Environmental and Material Science | Green Chemistry | Waste Valorization
 I'm a Materials and chemical laboratory scientist with over 7 years of hands-on experience in wet chemistry, polymer and
 composite materials, and analytical characterization. Proven ability to control chemical processes, troubleshoot
 variability, and translate materials research into manufacturable systems. Experienced in developing
-biodegradable composites, polymer processing, and laboratory support for high-reliability applications
+biodegradable composites, polymer processing, and laboratory support for high-reliability applications #
 
 ## Research Focus
 - Plastic extraction and recycling from mixed MSW  
