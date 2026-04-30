@@ -19,7 +19,7 @@ show_minimal: false             # remove all clutter
 
 navigation:                     # accepts {file, title, url, icon, sidebaricon}
   - {file: "/Harrison.pdf", title: "Resume",  home}
-  - {file: "README.md", sidebaricon: address-card}
+  - {title: "Linkedin", url: "https://www.linkedin.com/in/harrison-appiah-0a8a521a3/"}
   
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
