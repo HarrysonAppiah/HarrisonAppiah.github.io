@@ -17,10 +17,11 @@ show_minimal: false             # remove all clutter
 
 # Menu                          # for available icons see https://fontawesome.com/v5/icons/
 
-navigation:                     # accepts {file, title, url, icon, sidebaricon}
-  - {file: "/Harrison.pdf", title: "Resume",  home}
-  - {title: "Linkedin", url: "https://www.linkedin.com/in/harrison-appiah-0a8a521a3/"}
-  
+navigation:
+  - {file: "index.md", title: "Home"}
+  - {file: "about.md", title: "About"}
+  - {file: "research.md", title: "Research"}
+  - {file: "/Harrison.pdf", title: "Resume"}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
   - {title: Mail, icon: envelope, url: "mailto:Appiah.harrison@yahoo.com"}
