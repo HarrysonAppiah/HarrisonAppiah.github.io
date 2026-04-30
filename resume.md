@@ -4,11 +4,7 @@ title: "Resume"
 permalink: /resume/
 ---
 
-# Harrison Appiah
 
-Moscow, ID | 304-282-234 | 
-
----
 
 ## Technical Summary
 
