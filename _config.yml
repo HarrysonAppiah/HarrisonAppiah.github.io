@@ -22,7 +22,7 @@ navigation:
   - {file: "about.md", title: "About"}
   - {file: "research.md", title: "Research"}
   - {file: "projects.md", title: "Projects"}
-  - {file: "resume.md", title: "Resume"}
+ 
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
   - {title: Mail, icon: envelope, url: "mailto:Appiah.harrison@yahoo.com"}
