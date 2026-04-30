@@ -10,13 +10,13 @@ Moscow, ID | 304-282-2934 | Appiah.harrison@yahoo.com | LinkedIn | ORCID
 
 ---
 
-## 🧪 Technical Summary
+## Technical Summary
 
 Materials and chemical laboratory scientist with strong hands-on experience in wet chemistry, polymer and composite materials, and analytical characterization. Experienced in developing biodegradable composites, polymer processing, and laboratory support for high-reliability applications.
 
 ---
 
-## ⚙️ Technical Skills
+## Technical Skills
 
 - Wet chemistry & chemical process control  
 - Polymer & composite materials  
@@ -28,7 +28,7 @@ Materials and chemical laboratory scientist with strong hands-on experience in w
 
 ---
 
-## 💼 Professional Experience
+## Professional Experience
 
 ### Graduate Researcher & Teaching Assistant – University of Idaho
 *Present*
@@ -70,7 +70,7 @@ Materials and chemical laboratory scientist with strong hands-on experience in w
 
 ---
 
-## 🎓 Education
+## Education
 
 - PhD, Environmental Science – University of Idaho (Expected 2026)  
 - MSc, Biomaterial Science – West Virginia University  
@@ -78,7 +78,7 @@ Materials and chemical laboratory scientist with strong hands-on experience in w
 
 ---
 
-## 📚 Selected Publications
+## Selected Publications
 
 - Exploring MSW applications (DOI)  
 - Deep eutectic solvents for furfural synthesis (DOI)  
