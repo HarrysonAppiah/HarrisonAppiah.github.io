@@ -8,9 +8,7 @@ variability, and translate materials research into manufacturable systems. Exper
 biodegradable composites, polymer processing, and laboratory support for high-reliability applications
 
 ---
-
 ## Research Focus
-
 - Plastic extraction and recycling from mixed MSW  
 - Biochar production and characterization  
 - Biomass valorization using green solvents (DES)  
@@ -20,12 +18,9 @@ biodegradable composites, polymer processing, and laboratory support for high-re
 ---
 
 ## Current Work
-
-
 - Thermochemical conversion of waste streams  
 - Polymer recovery and composite development  
 - Advanced characterization (GC-MS, DSC, TGA, BET)
-
 ---
 
 ## Publications & Projects
