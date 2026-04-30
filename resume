@@ -1,1 +1,15 @@
+---
+layout: page
+title: "Resume"
+permalink: /resume/
+---
 
+## 📄 Curriculum Vitae
+
+<a href="/assets/Harrison.pdf" target="_blank">
+Download CV (PDF)
+</a>
+
+<br><br>
+
+<iframe src="/assets/Harrison.pdf" width="100%" height="600px"></iframe>
