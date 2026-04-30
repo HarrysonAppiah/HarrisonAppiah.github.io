@@ -7,7 +7,10 @@ title: "Home"
 
 **PhD in Environmental Science | Waste Valorization | Sustainable Materials**
 
-I am a researcher focused on converting municipal solid waste and agroforestry residues into high-value products, including biochar, composites, and platform chemicals such as furfural.
+Materials and chemical laboratory scientist with strong hands-on experience in wet chemistry, polymer and
+composite materials, and analytical characterization. Proven ability to control chemical processes, troubleshoot
+variability, and translate materials research into manufacturable systems. Experienced in developing
+biodegradable composites, polymer processing, and laboratory support for high-reliability applications
 
 ---
 
@@ -16,7 +19,8 @@ I am a researcher focused on converting municipal solid waste and agroforestry r
 - Plastic extraction and recycling from mixed MSW  
 - Biochar production and characterization  
 - Biomass valorization using green solvents (DES)  
-- Sustainable materials and circular economy  
+- Sustainable materials and circular economy
+- Green chemistry 
 
 ---
 
