@@ -2,12 +2,7 @@
 layout: page
 title: "Home"
 ---
-You can view or download my full CV below.
 
-<a href="/assets/Harrison.pdf" target="_blank"
-style="display: inline-block; padding: 10px 16px; background: #111827; color: white; border-radius: 8px; text-decoration: none;">
-View Resume
-</a>
 # Harrison Appiah
 
 **PhD in Environmental Science | Waste Valorization | Sustainable Materials**
