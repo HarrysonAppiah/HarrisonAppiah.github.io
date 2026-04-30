@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ''Blog''
+title: Blog
 ---
 
 With over 7 years of research experience, I am currently a Graduate Research Assistant at the University of Idaho, 
