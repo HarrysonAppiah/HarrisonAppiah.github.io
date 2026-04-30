@@ -1,9 +1,42 @@
 ---
-title: "Blog"
-header:
-  title: "Blog"
+layout: page
+title: "Home"
 ---
 
-With over 7 years of research experience, I am currently a Graduate Research Assistant at the University of Idaho, 
-pursuing a PhD in Environmental and Materials Science. My expertise lies in statistical data analysis, materials science, and advanced catalytic processes, with a focus on sustainable solutions, including biomass valorization and polymer recovery. I have contributed to impactful research on thermochemical conversion and sustainable methodologies. Passionate about innovation and environmental stewardship, I aim to support cutting-edge advancements that align with organizational goals for a greener future. Collaborating with interdisciplinary teams, 
-I strive to bring diverse perspectives to drive breakthroughs in science.
+# Harrison Appiah
+
+**PhD in Environmental Science | Waste Valorization | Sustainable Materials**
+
+I am a researcher focused on converting municipal solid waste and agroforestry residues into high-value products, including biochar, composites, and platform chemicals such as furfural.
+
+---
+
+## Research Focus
+
+- Plastic extraction and recycling from mixed MSW  
+- Biochar production and characterization  
+- Biomass valorization using green solvents (DES)  
+- Sustainable materials and circular economy  
+
+---
+
+## Current Work
+
+Graduate Research Assistant at the **University of Idaho**, working on:
+- Thermochemical conversion of waste streams  
+- Polymer recovery and composite development  
+- Advanced characterization (GC-MS, DSC, TGA, BET)
+
+---
+
+## Publications & Projects
+
+Coming soon.
+
+---
+
+## Contact
+
+- Email: Appiah.harrison@yahoo.com  
+- GitHub: https://github.com/HarrysonAppiah  
+- LinkedIn: https://www.linkedin.com/in/harrison-appiah-0a8a521a3/
