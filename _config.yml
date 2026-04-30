@@ -21,7 +21,7 @@ navigation:
   - {file: "index.md", title: "Home"}
   - {file: "about.md", title: "About"}
   - {file: "research.md", title: "Research"}
-  - {file: "/Harrison.pdf", title: "Resume"}
+  - {title: "Resume", url: "/assets/Harrison.pdf"}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
   - {title: Mail, icon: envelope, url: "mailto:Appiah.harrison@yahoo.com"}
