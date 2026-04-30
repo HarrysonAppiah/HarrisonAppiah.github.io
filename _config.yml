@@ -21,7 +21,7 @@ navigation:
   - {file: "index.md", title: "Home"}
   - {file: "about.md", title: "About"}
   - {file: "research.md", title: "Research"}
-  - {file: "projects.md", title: "Projects"}
+  
  
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
