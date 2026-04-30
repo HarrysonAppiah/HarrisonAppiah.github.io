@@ -17,7 +17,9 @@ biodegradable composites, polymer processing, and laboratory support for high-re
 
 ## Current Work
 - Thermochemical conversion of waste streams  
-- Polymer recovery and composite development  
+- Polymer recovery and composite development
+- PCB relevant chemistry: surface preparation, contamination control, process stability
+-Materials characterization: thermal stability, degradation, rheology, density, particle size  
 ---
 
 ## Publications & Projects
