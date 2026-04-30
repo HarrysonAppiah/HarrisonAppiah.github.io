@@ -16,7 +16,9 @@ I am a researcher focused on converting municipal solid waste and agroforestry r
 - Plastic extraction and recycling from mixed MSW  
 - Biochar production and characterization  
 - Biomass valorization using green solvents (DES)  
-- Sustainable materials and circular economy  
+- Sustainable materials and circular economy
+- Green Chemistry
+- Advanced material characterization and analytical chemistry 
 
 ---
 
