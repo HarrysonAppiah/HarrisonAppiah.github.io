@@ -1,8 +1,4 @@
----
 
----
-
-# Harrison Appiah
 
 **PhD in Environmental Science | Waste Valorization | Sustainable Materials**
 
