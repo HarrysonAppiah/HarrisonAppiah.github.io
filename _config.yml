@@ -22,9 +22,9 @@ navigation:                     # accepts {file, title, url, icon, sidebaricon}
   - {file: "README.md", sidebaricon: address-card}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
-  - {title: Mail, icon: envelope, url: "mailto:author@example.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+  - {title: Mail, icon: envelope, url: "mailto:Appiah.harrison@yahoo.com"}
+  - {title: Github, icon: github, url: "https://github.com/HarrysonAppiah"}
+  - {title: LinkedIn, icon: LinkedIn, url: "https://www.linkedin.com/in/harrison-appiah-0a8a521a3/"}
 
 comments:
 #  disqus_shortname: ""         # see https://disqus.com
