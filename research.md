@@ -30,7 +30,8 @@ My work focuses on transforming waste streams into valuable materials using ther
 
 - GC-MS  
 - DSC / TGA / TMA  
-- BET surface area analysis  
+- BET surface area analysis
+- FTIR / TMA /UV-VIS 
 
 ---
 
