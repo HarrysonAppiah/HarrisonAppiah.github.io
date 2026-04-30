@@ -1,20 +1,32 @@
+## 📸 Gallery
 
+<div class="slider">
+  <div class="slides">
 
-PhD in Environmental and Material Science | Green Chemistry | Waste Valorization | Sustainable Materials
+    <input type="radio" name="r" id="r1" checked>
+    <input type="radio" name="r" id="r2">
+    <input type="radio" name="r" id="r3">
 
-# About Me
-I'm a Materials and chemical laboratory scientist with over 7+ years of hands-on experience in wet chemistry, polymer and
-composite materials, and analytical characterization. Proven ability to control chemical processes, troubleshoot
-variability, and translate materials research into manufacturable systems. Experienced in developing
-biodegradable composites, polymer processing, and laboratory support for high-reliability applications.
+    <div class="slide s1">
+      <img src="/assets/slide1.jpg">
+    </div>
 
+    <div class="slide">
+      <img src="/assets/slide2.jpg">
+    </div>
 
+    <div class="slide">
+      <img src="/assets/slide3.jpg">
+    </div>
 
-## Contact
+  </div>
 
-- Email: Appiah.harrison@yahoo.com  
-- GitHub: https://github.com/HarrysonAppiah  
-- LinkedIn: https://www.linkedin.com/in/harrison-appiah-0a8a521a3/
+  <div class="navigation">
+    <label for="r1"></label>
+    <label for="r2"></label>
+    <label for="r3"></label>
+  </div>
+</div>
 
 
 
