@@ -18,7 +18,6 @@ biodegradable composites, polymer processing, and laboratory support for high-re
 ## Current Work
 - Thermochemical conversion of waste streams  
 - Polymer recovery and composite development  
-- Advanced characterization (GC-MS, DSC, TGA, BET)
 ---
 
 ## Publications & Projects
