@@ -6,8 +6,7 @@ permalink: /about/
 
 <div class="about-wrapper">
   <div class="about-photo">
-    <img src="{{ '/assets/Profile.jpg' | relative_url }}" alt="Harrison Appiah" />
-  </div>
+    <img src="{{ '/assets/img/rofile.jpg' | relative_url }}" alt="Harrison Appiah" />
 
   <div class="about-text">
     <h1>Harrison Appiah</h1>
