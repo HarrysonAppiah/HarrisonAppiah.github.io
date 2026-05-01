@@ -9,10 +9,7 @@
 .slides
   display: flex
   width: 300%
-  transition: all 0.5s ease
-
-.slides input
-  display: none
+  animation: slide 12s infinite
 
 .slide
   width: 100%
@@ -22,11 +19,16 @@
   width: 100%
   display: block
 
-#r1:checked ~ .s1
-  margin-left: 0
-
-#r2:checked ~ .s1
-  margin-left: -100%
-
-#r3:checked ~ .s1
-  margin-left: -200%
+@keyframes slide
+  0%
+    transform: translateX(0%)
+  33%
+    transform: translateX(0%)
+  38%
+    transform: translateX(-100%)
+  66%
+    transform: translateX(-100%)
+  71%
+    transform: translateX(-200%)
+  100%
+    transform: translateX(-200%)
