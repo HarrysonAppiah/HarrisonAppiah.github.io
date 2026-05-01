@@ -28,14 +28,14 @@ permalink: /publications/
       issn: "2313-4321"
       publisher: "MDPI"
 
-    - title: "Upcycling Municipal Solid Waste to Polymers and Bioethanol"
+    - Upcycling Municipal Solid Waste to Polymers and Bioethanol
       authors: "Huber, G., Ra, E., Cortes-Pena, Y., Rivera-Kohr, D., Callen, L., Zhou, P., Yu, J., Granger, C., Saha, N., Klinger, J., et al."
       type: journal
       year: 2026
 
 - year: 2025
   entries:
-    - title: "Evaluation of Deep Eutectic Solvents for Xylan-Based Furfural Synthesis"
+    - Evaluation of Deep Eutectic Solvents for Xylan-Based Furfural Synthesis
       authors: "Appiah, H., Dawson-Andoh, B., Oginni, O., & McDonald, A. G."
       type: journal
       venue: "ACS Sustainable Resource Management"
@@ -45,7 +45,7 @@ permalink: /publications/
       issn: "2837-1445"
       publisher: "American Chemical Society"
 
-    - title: "Exploring New Applications of Municipal Solid Waste"
+    - Exploring New Applications of Municipal Solid Waste
       authors: "Appiah, H., Bar-Ziv, E., Klinger, J. L., & McDonald, A. G."
       type: journal
       venue: "Sustainability"
@@ -55,21 +55,21 @@ permalink: /publications/
       issn: "2071-1050"
       publisher: "MDPI"
 
-    - title: "Recycled Plastics in Smart Packaging Applications"
+    - Recycled Plastics in Smart Packaging Applications
       authors: "Appiah, H., Ewurum, N., Yusuf, S. B., & Tongco, J. V."
       type: book_chapter
       venue: "Polymers and Composite Materials for Packaging: Smart Food Packaging and Solutions"
       pages: "395–413"
       publisher: "Springer Nature"
 
-    - title: "Lignin-Based Biocomposites for Smart and Sustainable Food Packaging"
+    - Lignin-Based Biocomposites for Smart and Sustainable Food Packaging
       authors: "Ewurum, N., Yusuf, S. B., Appiah, H., & Tongco, J. V."
       type: book_chapter
       venue: "Polymers and Composite Materials for Packaging: Smart Food Packaging and Solutions"
       pages: "273–296"
       publisher: "Springer Nature"
 
-    - title: "Industrial Hemp as Precursor for Sustainable Bioproducts: Recent Trends and Prospects"
+    - Industrial Hemp as Precursor for Sustainable Bioproducts: Recent Trends and Prospects
       authors: "Yusuf, S. B., Ewurum, N., Appiah, H., & Tongco, J. V."
       type: journal
       venue: "Fibers"
@@ -81,7 +81,7 @@ permalink: /publications/
 
 - year: 2024
   entries:
-    - title: "Examination of in situ and ex situ Catalytic Fast Pyrolysis and Liquid Fractionation Utilizing a Free-Fall Reactor"
+    - Examination of in situ and ex situ Catalytic Fast Pyrolysis and Liquid Fractionation Utilizing a Free-Fall Reactor
       authors: "Struhs, E., Mirkouei, A., Appiah, H., & McDonald, A. G."
       type: journal
       venue: "Frontiers in Industrial Microbiology"
@@ -90,7 +90,7 @@ permalink: /publications/
       issn: "2813-7809"
       publisher: "Frontiers Media SA"
 
-    - title: "Cast Film Production with Polyethylene Recycled from a Post-Industrial Printed Multilayer Film by Solvent-Targeted Recovery and Precipitation"
+    - Cast Film Production with Polyethylene Recycled from a Post-Industrial Printed Multilayer Film by Solvent-Targeted Recovery and Precipitation
       authors: "Sánchez-Rivera, K. L., Granger, C., Appiah, H., Nelson, K., Grey, S., Sun, D. J., Estela-García, J. E., Chen, E., Xu, Z., & Osswald, T. A."
       type: journal
       venue: "ACS Materials Letters"
@@ -102,7 +102,7 @@ permalink: /publications/
 
 - year: 2021
   entries:
-    - title: "Valorization of Xylan in Agroforestry Waste Streams"
+    - Valorization of Xylan in Agroforestry Waste Streams
       authors: "Appiah, H."
       type: thesis
       publisher: "West Virginia University"
