@@ -13,32 +13,112 @@ permalink: /publications/
 
 ## 📝 Journal Articles
 
-- **Appiah, H.**, et al. (2026).  
-  *Municipal solid waste valorization via solvent extraction.*  
-  Journal of Cleaner Production.  
-  DOI: xxx | [PDF](/assets/papers/paper1.pdf)
+- year: 2026
+  entries:
+    - title: "Plastic Recovery from Municipal Solid Waste by Solvent Extraction"
+      authors: "Appiah, H., Bar-Ziv, E., Klinger, J., & McDonald, A. G."
+      type: journal
+      venue: "ACS Sustainable Resource Management"
+      volume: 3
+      issue: 2
+      pages: "524–533"
+      publisher: "American Chemical Society"
 
-- **Appiah, H.**, et al. (2025).  
-  *Biochar development from agroforestry residues.*  
-  Bioresource Technology.  
-  DOI: xxx  
+    - title: "Waste-to-Energy Technologies and Their Role in Municipal Solid Waste Management"
+      authors: "Appiah, H., Asamoah, P., & McDonald, A. G."
+      type: journal
+      venue: "Recycling"
+      volume: 11
+      issue: 3
+      pages: "56"
+      issn: "2313-4321"
+      publisher: "MDPI"
 
----
+    - title: "Upcycling Municipal Solid Waste to Polymers and Bioethanol"
+      authors: "Huber, G., Ra, E., Cortes-Pena, Y., Rivera-Kohr, D., Callen, L., Zhou, P., Yu, J., Granger, C., Saha, N., Klinger, J., et al."
+      type: journal
+      year: 2026
 
-## 🎤 Conference Papers
+- year: 2025
+  entries:
+    - title: "Evaluation of Deep Eutectic Solvents for Xylan-Based Furfural Synthesis"
+      authors: "Appiah, H., Dawson-Andoh, B., Oginni, O., & McDonald, A. G."
+      type: journal
+      venue: "ACS Sustainable Resource Management"
+      volume: 2
+      issue: 3
+      pages: "536–545"
+      issn: "2837-1445"
+      publisher: "American Chemical Society"
 
-- **Appiah, H.** (2025).  
-  *Thermochemical conversion of MSW.*  
-  XYZ Conference.
+    - title: "Exploring New Applications of Municipal Solid Waste"
+      authors: "Appiah, H., Bar-Ziv, E., Klinger, J. L., & McDonald, A. G."
+      type: journal
+      venue: "Sustainability"
+      volume: 17
+      issue: 8
+      pages: "3719"
+      issn: "2071-1050"
+      publisher: "MDPI"
 
----
+    - title: "Recycled Plastics in Smart Packaging Applications"
+      authors: "Appiah, H., Ewurum, N., Yusuf, S. B., & Tongco, J. V."
+      type: book_chapter
+      venue: "Polymers and Composite Materials for Packaging: Smart Food Packaging and Solutions"
+      pages: "395–413"
+      publisher: "Springer Nature"
 
-## ⏳ Under Review
-- DES-mediated furfural production from xylan  
+    - title: "Lignin-Based Biocomposites for Smart and Sustainable Food Packaging"
+      authors: "Ewurum, N., Yusuf, S. B., Appiah, H., & Tongco, J. V."
+      type: book_chapter
+      venue: "Polymers and Composite Materials for Packaging: Smart Food Packaging and Solutions"
+      pages: "273–296"
+      publisher: "Springer Nature"
 
----
+    - title: "Industrial Hemp as Precursor for Sustainable Bioproducts: Recent Trends and Prospects"
+      authors: "Yusuf, S. B., Ewurum, N., Appiah, H., & Tongco, J. V."
+      type: journal
+      venue: "Fibers"
+      volume: 13
+      issue: 11
+      pages: "155"
+      issn: "2079-6439"
+      publisher: "MDPI"
 
-## 🧪 In Preparation
-- Plastic extraction using aromatic solvents  
-- Biochar graphitization mechanisms  
+- year: 2024
+  entries:
+    - title: "Examination of in situ and ex situ Catalytic Fast Pyrolysis and Liquid Fractionation Utilizing a Free-Fall Reactor"
+      authors: "Struhs, E., Mirkouei, A., Appiah, H., & McDonald, A. G."
+      type: journal
+      venue: "Frontiers in Industrial Microbiology"
+      volume: 2
+      pages: "1426067"
+      issn: "2813-7809"
+      publisher: "Frontiers Media SA"
+
+    - title: "Cast Film Production with Polyethylene Recycled from a Post-Industrial Printed Multilayer Film by Solvent-Targeted Recovery and Precipitation"
+      authors: "Sánchez-Rivera, K. L., Granger, C., Appiah, H., Nelson, K., Grey, S., Sun, D. J., Estela-García, J. E., Chen, E., Xu, Z., & Osswald, T. A."
+      type: journal
+      venue: "ACS Materials Letters"
+      volume: 6
+      issue: 9
+      pages: "4042–4050"
+      issn: "2639-4979"
+      publisher: "American Chemical Society"
+
+- year: 2021
+  entries:
+    - title: "Valorization of Xylan in Agroforestry Waste Streams"
+      authors: "Appiah, H."
+      type: thesis
+      publisher: "West Virginia University"
+
+- year: 2015
+  entries:
+    - title: "[Title missing — please add]"
+      authors: "Appiah, H. & Awuku, S."
+      type: journal
+      venue: "Ghana Journal of Forestry"
+      volume: 31
+      pages: "51–61"
 
