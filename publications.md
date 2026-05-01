@@ -9,7 +9,7 @@ permalink: /publications/
 
 - year: 2026
   entries:
-    - title: "Plastic Recovery from Municipal Solid Waste by Solvent Extraction"
+    - Plastic Recovery from Municipal Solid Waste by Solvent Extraction
       authors: "Appiah, H., Bar-Ziv, E., Klinger, J., & McDonald, A. G."
       type: journal
       venue: "ACS Sustainable Resource Management"
@@ -18,7 +18,7 @@ permalink: /publications/
       pages: "524–533"
       publisher: "American Chemical Society"
 
-    - title: "Waste-to-Energy Technologies and Their Role in Municipal Solid Waste Management"
+    - Waste-to-Energy Technologies and Their Role in Municipal Solid Waste Management
       authors: "Appiah, H., Asamoah, P., & McDonald, A. G."
       type: journal
       venue: "Recycling"
