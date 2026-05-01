@@ -1,27 +1,36 @@
 ## 📸 Snapshot publications
 <style>
-body {
-  border: 5px solid red;
+.slider {
+  width: 100%;
+  max-width: 700px;
+  margin: 20px auto;
+  overflow: hidden;
+  border-radius: 12px;
+}
+
+.slides {
+  display: flex;
+  width: 300%;
+  animation: slide 12s infinite;
+}
+
+.slide {
+  width: 100%;
+  flex-shrink: 0;
+}
+
+.slide img {
+  width: 100%;
+  display: block;
+}
+
+@keyframes slide {
+  0% { transform: translateX(0%); }
+  33% { transform: translateX(0%); }
+  38% { transform: translateX(-100%); }
+  66% { transform: translateX(-100%); }
+  71% { transform: translateX(-200%); }
+  100% { transform: translateX(-200%); }
 }
 </style>
-
-
-<div class="slider">
-  <div class="slides">
-
-    <div class="slide">
-      <img src="/assets/slide1.png" alt="Slide 1">
-    </div>
-
-    <div class="slide">
-      <img src="/assets/slide2.png" alt="Slide 2">
-    </div>
-
-    <div class="slide">
-      <img src="/assets/slide3.png" alt="Slide 3">
-    </div>
-
-  </div>
-</div>
-
 
