@@ -10,7 +10,7 @@ permalink: /about/
 
   <div class="about-text">
     <h1>Harrison Appiah</h1>
-    <p class="about-role">PhD &mdash; University of Idaho |Material & Environmental Science</p>
+    <p class="about-role">PhD &mdash; University of Idaho | Material & Environmental Science</p>
 
     <p>
       I am a researcher with a deep interest in biomaterials science and  waste valorization — and a technical foundation that spans green chemistry, analytical chemistry, wet chemistry, printed circuit board chemistry, and semiconductor fabrication. My work sits at the intersection of biomass valorization and sustainable materials, exploring how agricultural residues, municipal solid waste, and end-of-life plastics can be transformed into useful fuels, chemicals, and packaging materials.
