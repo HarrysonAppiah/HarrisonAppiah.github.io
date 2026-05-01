@@ -4,9 +4,7 @@ title: "Research"
 permalink: /research/
 ---
 
-# 🔬 Research
-
-## Research Overview
+# 🔬 Overview
 
 My research focuses on transforming municipal solid waste (MSW) and agroforestry residues into high-value materials and chemicals. By integrating principles from materials science, environmental engineering, and green chemistry, I develop scalable pathways for waste valorization and circular resource utilization.
 
