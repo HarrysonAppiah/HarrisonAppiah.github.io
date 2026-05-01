@@ -75,6 +75,45 @@ Materials and chemical laboratory scientist with strong hands-on experience in w
 
 ## Selected Publications
 
-- Exploring New Applications of Municipal Solid Waste — peer-reviewed Evaluation of Deep Eutectic Solvents for Xylan-Based Furfural Synthesis 
-- Cast Film Production with Polyethylene Recycled from a Post-Industrial Printed Multilayer Film by Solvent-Targeted Recovery and Precipitation   
-- Polymer recovery from multilayer films (DOI)  
+Harrison Appiah — Publications list with links, sorted by year
+2026
+12
+Upcycling Municipal Solid Waste to Polymers and Bioethanolpreprint
+Huber, G., Ra, E., Cortes-Pena, Y., Rivera-Kohr, D., Callen, L., … Klinger, J. & others · Research Square, 2026
+11
+Waste-to-Energy Technologies and Their Role in Municipal Solid Waste Management
+Appiah, H., Asamoah, P. & McDonald, A.G. · Recycling, 11(3), 56 · MDPI, 2026
+10
+Plastic Recovery from Municipal Solid Waste by Solvent Extraction
+Appiah, H., Bar-Ziv, E., Klinger, J. & McDonald, A.G. · ACS Sustainable Resource Management, 3(2), 524–533 · ACS, 2026
+2025
+9
+Industrial Hemp as Precursor for Sustainable Bioproducts: Recent Trends and Prospects
+Yusuf, S.B., Ewurum, N., Appiah, H. & Tongco, J.V. · Fibers, 13(11), 155 · MDPI, 2025
+8
+Lignin-Based Biocomposites for Smart and Sustainable Food Packagingbook chapter
+Ewurum, N., Yusuf, S.B., Appiah, H. & Tongco, J.V. · In: Polymers and Composite Materials for Packaging, pp. 273–296 · Springer Nature, 2025
+7
+Recycled Plastics in Smart Packaging Applicationsbook chapter
+Appiah, H., Ewurum, N., Yusuf, S.B. & Tongco, J.V. · In: Polymers and Composite Materials for Packaging, pp. 395–413 · Springer Nature, 2025
+6
+Exploring New Applications of Municipal Solid Waste
+Appiah, H., Bar-Ziv, E., Klinger, J.L. & McDonald, A.G. · Sustainability, 17(8), 3719 · MDPI, 2025
+5
+Evaluation of Deep Eutectic Solvents for Xylan-Based Furfural Synthesis
+Appiah, H., Dawson-Andoh, B., Oginni, O. & McDonald, A.G. · ACS Sustainable Resource Management, 2(3), 536–545 · ACS, 2025
+2024
+4
+Cast Film Production with Polyethylene Recycled from a Post-Industrial Printed Multilayer Film by Solvent-Targeted Recovery and Precipitation
+Sánchez-Rivera, K.L., Granger, C., Appiah, H., Nelson, K., Grey, S., … & Huber, G.W. · ACS Materials Letters, 6(9), 4042–4050 · ACS, 2024
+3
+Examination of In Situ and Ex Situ Catalytic Fast Pyrolysis and Liquid Fractionation Utilizing a Free-Fall Reactor
+Struhs, E., Mirkouei, A., Appiah, H. & McDonald, A.G. · Frontiers in Industrial Microbiology, 2, 1426067 · Frontiers, 2024
+2021
+2
+Valorization of Xylan in Agroforestry Waste Streamsthesis
+Appiah, H. · M.S. Thesis · West Virginia University, 2021
+2015
+1
+Untitled article(title missing from source data)
+Appiah, H. & Awuku, S. · Ghana Journal of Forestry, 31, 51–61 · 2015
