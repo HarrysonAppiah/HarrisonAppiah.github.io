@@ -1,4 +1,4 @@
-## 📸 Gallery
+## 📸 Snapshot publications
 
 <div class="slider">
   <div class="slides">
