@@ -41,10 +41,11 @@ Maintained detailed laboratory notebooks and documentation in full compliance wi
 ### Laboratory Technician – St. Philip’s College
 *2021–2022*
 
-- Managed chemical preparation and laboratory operations  
-- Operated SEM, UV-Vis, pH meters, analytical balances  
-- Developed and executed HPLC/GC methods  
-- Supported multi-user laboratory environments  
+-Supported 50+ lab users per week while maintaining instrument readiness, cleanliness, and compliance with SOPs, work instructions, and safety standards.
+Developed, validated, and executed analytical methods using HPLC, GC, and SEM; performed data verification and reasonableness checks, flagging abnormal results for root cause review.
+-Operated and maintained SEM, UV-Vis, pH meters, and analytical balances; performed routine troubleshooting and scheduled maintenance to minimize instrument downtime.
+-Electroplated samples using tin via cyclic voltammetry and applied chemical knowledge to evaluate result accuracy and process stability
+
 
 ---
 
