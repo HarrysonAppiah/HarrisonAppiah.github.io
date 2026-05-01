@@ -100,8 +100,8 @@ permalink: /about/
     text-align: center;
   }
  .about-photo img {
-  width: 260px;
-  height: 260px;
+  width: 360px;
+  height: 360px;
   object-fit: cover;
   border-radius: 12px;
   display: block;
