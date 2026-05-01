@@ -113,12 +113,5 @@ permalink: /publications/
       type: thesis
       publisher: "West Virginia University"
 
-- year: 2015
-  entries:
-    - title: "[Title missing — please add]"
-      authors: "Appiah, H. & Awuku, S."
-      type: journal
-      venue: "Ghana Journal of Forestry"
-      volume: 31
-      pages: "51–61"
+
 
