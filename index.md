@@ -1,4 +1,10 @@
 ## 📸 Snapshot publications
+<style>
+body {
+  border: 5px solid red;
+}
+</style>
+
 
 <div class="slider">
   <div class="slides">
