@@ -28,12 +28,12 @@ Materials and chemical laboratory scientist with strong hands-on experience in w
 
 ### Graduate Researcher & Teaching Assistant – University of Idaho
 *Present*
--Designed and optimized wet-chemical fractionation processes to separate municipal solid waste into polymeric and biogenic streams, executing up to 5 experimental batches per week.
--Developed biodegradable polymer composites and converted them into FDM 3D printing filaments, taking materials from bench-scale formulation through functional filament production.
--Applied GC-MS, DSC, TGA, BET, and FTIR to evaluate chemical composition, thermal stability, and material performance; interpreted data trends to support iterative process improvements.
--Standardized sample preparation and testing protocols across the lab, improving reproducibility and reducing experimental variability across multi-week studies.
--Conducted controlled experiments to isolate process variables and perform root cause investigation of inconsistent material behavior.
--Maintained detailed laboratory notebooks and documentation in full compliance with chemical safety and hazardous waste-handling procedures.
+- Designed and optimized wet-chemical fractionation processes to separate municipal solid waste into polymeric and biogenic streams, executing up to 5 experimental batches per week.
+- Developed biodegradable polymer composites and converted them into FDM 3D printing filaments, taking materials from bench-scale formulation through functional filament production.
+- Applied GC-MS, DSC, TGA, BET, and FTIR to evaluate chemical composition, thermal stability, and material performance; interpreted data trends to support iterative process improvements.
+- Standardized sample preparation and testing protocols across the lab, improving reproducibility and reducing experimental variability across multi-week studies.
+- Conducted controlled experiments to isolate process variables and perform root cause investigation of inconsistent material behavior.
+- Maintained detailed laboratory notebooks and documentation in full compliance with chemical safety and hazardous waste-handling procedures.
 
 
 ---
