@@ -46,8 +46,8 @@ permalink: /about/
 }
 
 .about-photo img {
-  width: 260px;
-  height: 260px;
+  width: 360px;
+  height: 360px;
   object-fit: cover;
   border-radius: 12px;
   display: block;
@@ -99,12 +99,15 @@ permalink: /about/
     align-items: center;
     text-align: center;
   }
-  .about-photo img {
-    width: 200px;
-    height: 200px;
-  }
-  .about-links {
-    justify-content: center;
+ .about-photo img {
+  width: 260px;
+  height: 260px;
+  object-fit: cover;
+  border-radius: 12px;
+  display: block;
+  flex-shrink: 0;
+  border: 3px solid rgba(255, 255, 255, 0.3);
+}
   }
 }
 </style>
