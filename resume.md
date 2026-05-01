@@ -5,7 +5,6 @@ permalink: /resume/
 ---
 
 
-
 ## Technical Summary
 
 Materials and chemical laboratory scientist with strong hands-on experience in wet chemistry, polymer and composite materials, and analytical characterization. Experienced in developing biodegradable composites, polymer processing, and laboratory support for high-reliability applications.
@@ -39,23 +38,22 @@ Materials and chemical laboratory scientist with strong hands-on experience in w
 
 ---
 
-### Laboratory Technician – St. Philip’s College
+### Laboratory Technician – St. Philip’s College-San Antonio-Tx
 *2021–2022*
 
--Supported 50+ lab users per week while maintaining instrument readiness, cleanliness, and compliance with SOPs, work instructions, and safety standards.
-Developed, validated, and executed analytical methods using HPLC, GC, and SEM; performed data verification and reasonableness checks, flagging abnormal results for root cause review.
--Operated and maintained SEM, UV-Vis, pH meters, and analytical balances; performed routine troubleshooting and scheduled maintenance to minimize instrument downtime.
--Electroplated samples using tin via cyclic voltammetry and applied chemical knowledge to evaluate result accuracy and process stability
-
+- Supported 50+ lab users per week while maintaining instrument readiness, cleanliness, and compliance with SOPs, work instructions, and safety standards.
+- Developed, validated, and executed analytical methods using HPLC, GC, and SEM; performed data verification and reasonableness checks, flagging abnormal results for root cause review
+- Operated and maintained SEM, UV-Vis, pH meters, and analytical balances; performed routine troubleshooting and scheduled maintenance to minimize instrument downtime
+- Electroplated samples using tin via cyclic voltammetry and applied chemical knowledge to evaluate result accuracy and process stability.
 
 ---
 
 ### Principal Superintendent (Chemistry) – Ghana Education Service
 *2016–2020*
 
-- Taught high school chemistry with laboratory integration  
-- Supervised laboratory operations and safety compliance  
-- Developed curriculum-aligned experiments and assessments  
+- Supervised chemistry laboratories serving 100+ students annually; oversaw reagent preparation, equipment maintenance, and enforcement of safety protocols  
+- Developed and continuously improved lesson plans and laboratory exercises aligned with national science curricula, maintaining detailed records and compliance documentation 
+- Reinforced procedural discipline, data accuracy, and laboratory safety standards — competencies directly applicable to industrial chemical testing environments
 
 ---
 
