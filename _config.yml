@@ -19,7 +19,6 @@ show_minimal: false             # remove all clutter
 
 navigation:
   - {file: "index.md", title: "Home"}
-  - {file: "about.md", title: "About"}
   - {file: "research.md", title: "Research"}
   - {file: "publications.md", title: "Publications"}
   - {file: "resume.md", title: "Resume"}
