@@ -46,29 +46,31 @@ permalink: /about/
 }
 
 .about-photo img {
-  width: 180px;
-  height: 180px;
+  width: 260px;
+  height: 260px;
   object-fit: cover;
-  border-radius: 50%;
+  border-radius: 12px;
   display: block;
   flex-shrink: 0;
+  border: 3px solid rgba(255, 255, 255, 0.3);
 }
 
 .about-text h1 {
   margin: 0 0 0.15rem;
-  font-size: 1.5rem;
+  font-size: 1.6rem;
+  color: #ffffff;
 }
 
 .about-role {
-  font-size: 0.875rem;
-  color: #888;
+  font-size: 0.9rem;
+  color: rgba(255, 255, 255, 0.7);
   margin: 0 0 1.25rem;
 }
 
 .about-text p {
-  font-size: 0.95rem;
-  line-height: 1.75;
-  color: #333;
+  font-size: 0.975rem;
+  line-height: 1.8;
+  color: rgba(255, 255, 255, 0.9);
   margin-bottom: 1rem;
 }
 
@@ -82,13 +84,13 @@ permalink: /about/
   font-size: 0.875rem;
   font-weight: 600;
   text-decoration: none;
-  color: #1a56db;
-  border-bottom: 1px solid #1a56db;
-  padding-bottom: 1px;
+  color: #ffffff;
+  border-bottom: 2px solid rgba(255, 255, 255, 0.5);
+  padding-bottom: 2px;
 }
 
 .about-links a:hover {
-  opacity: 0.7;
+  border-bottom-color: #ffffff;
 }
 
 @media (max-width: 600px) {
@@ -97,9 +99,12 @@ permalink: /about/
     align-items: center;
     text-align: center;
   }
+  .about-photo img {
+    width: 200px;
+    height: 200px;
+  }
   .about-links {
     justify-content: center;
   }
 }
 </style>
-
