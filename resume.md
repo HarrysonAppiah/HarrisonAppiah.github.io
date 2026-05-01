@@ -59,7 +59,7 @@ Developed, validated, and executed analytical methods using HPLC, GC, and SEM; p
 
 ---
 
-### Research Intern – Materials and Chemicals Research Council for Scientific and Industrial Research
+### Research Intern – Materials and Chemicals Research- Council for Scientific and Industrial Research
 *2015–2016*
 
 - Planned and executed chemical and materials research experiments using established protocols; applied statistical analysis to evaluate trends, variability, and reliability of results
