@@ -4,12 +4,6 @@ title: "Publications"
 permalink: /publications/
 ---
 
-## 📊 Metrics
-- Publications: X  
-- Citations: X  
-- h-index: X  
-
----
 
 ## 📝 Journal Articles
 
