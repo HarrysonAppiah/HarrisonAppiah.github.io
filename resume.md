@@ -33,7 +33,7 @@ Innovative Materials and Chemical Scientist with extensive hands-on experience i
 - Applied GC-MS, DSC, TGA, BET, and FTIR to evaluate chemical composition, thermal stability, and material performance; interpreted data trends to support iterative process improvements. 
 - Standardized sample preparation and testing protocols across the lab, improving reproducibility and reducing experimental variability across multi-week studies 
 - Conducted controlled experiments to isolate process variables and perform root cause investigation of inconsistent material behavior.
-- Maintained detailed laboratory notebooks and documentation in full compliance with chemical safety and hazardous waste-handling procedures.
+
 
 
 ---
