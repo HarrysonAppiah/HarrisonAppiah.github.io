@@ -62,7 +62,6 @@ Innovative Materials and Chemical Scientist with extensive hands-on experience i
 
 - Planned and executed chemical and materials research experiments using established protocols; applied statistical analysis to evaluate trends, variability, and reliability of results
 - Prepared technical reports and presentations summarizing experimental findings for research teams and supervisors
-- Maintained accurate laboratory notebooks and project documentation to ensure data integrity, traceability, and compliance.
 ---
 
 ## Education
