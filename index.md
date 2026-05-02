@@ -1,11 +1,7 @@
 ---
-layout: default
+layout: page
 title: Home
 ---
----
-layout: page
-title: About
-permalink: /about/
 ---
 
 <div class="about-wrapper">
