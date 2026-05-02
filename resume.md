@@ -7,7 +7,7 @@ permalink: /resume/
 
 ## Technical Summary
 
-Materials and chemical laboratory scientist with strong hands-on experience in wet chemistry, polymer and composite materials, and analytical characterization. Experienced in developing biodegradable composites, polymer processing, and laboratory support for high-reliability applications.
+Innovative Materials and Chemical Scientist with extensive hands-on experience in wet chemistry, polymer science, and composite material development. Expertise spans the full lifecycle of material design, from synthesis to characterization and application testing. Proven track record in developing biodegradable composites and advanced polymer processing techniques aimed at sustainable materials and high-reliability applications. Skilled in leveraging cutting-edge analytical instrumentation for material analysis and performance evaluation, with a strong focus on environmental sustainability and energy-efficient solutions.
 
 ---
 
