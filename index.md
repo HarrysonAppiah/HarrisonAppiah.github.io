@@ -1,4 +1,8 @@
 ---
+layout: default
+title: Home
+---
+---
 layout: page
 title: About
 permalink: /about/
