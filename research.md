@@ -60,7 +60,7 @@ My work combines synthesis, processing, and advanced characterization:
 
 ---
 
-## 🔍 Current Focus
+### 🔍 Current Focus
 
 - Enhancing the efficiency of polymer recovery from complex MSW via selective solvent extraction and thermochemical separation techniques 
 - Engineering biochar with tunable surface chemistry and porosity for targeted catalytic, adsorption, and environmental applications  
