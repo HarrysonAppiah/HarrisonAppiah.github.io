@@ -60,13 +60,6 @@ My work combines synthesis, processing, and advanced characterization:
 
 ---
 
-### 🔍 Current Focus
-
-- Enhancing the efficiency of polymer recovery from complex MSW via selective solvent extraction and thermochemical separation techniques 
-- Engineering biochar with tunable surface chemistry and porosity for targeted catalytic, adsorption, and environmental applications  
-- Optimizing deep eutectic solvent (DES) systems for improved reaction kinetics and selectivity in biomass conversion 
-- Integrating recovered and functionalized materials into high-performance composite systems through advanced materials processing strategies
----
 
 ## 🤝 Collaboration Interests
 
