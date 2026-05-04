@@ -6,7 +6,7 @@ permalink: /research/
 
 # 🔬 Overview
 
-My research focuses on transforming municipal solid waste (MSW) and agroforestry residues into high-value materials and chemicals. By integrating principles from materials science, environmental engineering, and green chemistry, I develop scalable pathways for waste valorization and circular resource utilization.
+My research centers on the chemical transformation of municipal solid waste (MSW) and agroforestry residues into value-added materials and platform chemicals. By integrating principles of materials chemistry, reaction engineering, and green solvent systems, I design and optimize scalable processes for waste valorization. This work emphasizes mechanistic understanding, structure–property relationships, and process intensification to enable circular resource utilization.
 
 ---
 
@@ -62,23 +62,22 @@ My work combines synthesis, processing, and advanced characterization:
 
 ## 🔍 Current Focus
 
-- Enhancing plastic recovery efficiency from complex MSW streams  
-- Tailoring biochar properties for specific functional applications  
-- Improving DES-based biomass conversion systems  
-- Integrating recovered materials into composite manufacturing  
-
+- Enhancing the efficiency of polymer recovery from complex MSW via selective solvent extraction and thermochemical separation techniques 
+- Engineering biochar with tunable surface chemistry and porosity for targeted catalytic, adsorption, and environmental applications  
+- Optimizing deep eutectic solvent (DES) systems for improved reaction kinetics and selectivity in biomass conversion 
+- Integrating recovered and functionalized materials into high-performance composite systems through advanced materials processing strategies
 ---
 
 ## 🤝 Collaboration Interests
 
 I am interested in collaborations in:
-- Waste-to-resource technologies  
-- Sustainable materials development  
-- Industrial process scale-up  
-- Environmental remediation systems  
+- Chemical conversion and valorization of waste streams into high-value products
+- Reaction engineering and scale-up of chemical processes for industrial applications
+- Design and synthesis of sustainable and functional materials
+- Development of chemically driven systems for environmental remediation
 
 ## 🎯 Research Impact
 
-- Advancing circular economy solutions  
-- Reducing landfill waste  
-- Developing sustainable materials  
+- Advancing chemically driven strategies for circular economy implementation
+- Minimizing landfill waste through thermochemical and solvent-based conversion pathways
+- Designing and developing sustainable materials with controlled structure–property relationships  
