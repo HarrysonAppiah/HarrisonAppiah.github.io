@@ -110,6 +110,7 @@ title: Home
   }
 }
 </style>
+
 <div style="text-align: center; margin-top: 30px;">
   <p><strong>Interested in collaborating or have a question?</strong></p>
 
@@ -121,3 +122,8 @@ title: Home
     Contact Me
   </a>
 </div>
+<ul>
+{% for item in site.external %}
+  <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+{% endfor %}
+</ul>
