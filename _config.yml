@@ -26,9 +26,9 @@ navigation:
  
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
-  - {title: Mail, icon: envelope, url: "mailto:Appiah.harrison@yahoo.com"}
-  - {title: Google scholar, icon: graduation cap, url: "https://scholar.google.com/citations?user=lj8Xn1sAAAAJ&hl=en"}
-  - {title: LinkedIn, icon: LinkedIn, url: "https://www.linkedin.com/in/harrison-appiah-0a8a521a3/"}
+  - title: Mail, icon: envelope, url: "mailto:Appiah.harrison@yahoo.com"
+  - title: Google scholar, icon: graduation cap, url: "https://scholar.google.com/citations?user=lj8Xn1sAAAAJ&hl=en"
+  - title: LinkedIn, icon: LinkedIn, url: "https://www.linkedin.com/in/harrison-appiah-0a8a521a3/"
 
 comments:
 #  disqus_shortname: ""         # see https://disqus.com
