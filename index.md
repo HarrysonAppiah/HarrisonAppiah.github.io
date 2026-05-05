@@ -109,6 +109,18 @@ title: Home
 }
   }
 }
+  </style>
+
+<div style="text-align: center; margin-top: 30px;">
+  <p><strong>Interested in collaborating or have a question?</strong></p>
+
+  <p style="font-size: 16px;">
+    📧 Appiah.harrison@yahoo.com
+  </p>
+
+  <a href="mailto:Appiah.harrison@yahoo.com" class="contact-button">
+    Contact Me
+  </a>
 
 </div>
 <ul>
