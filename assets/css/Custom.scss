@@ -1,1 +1,81 @@
+/* =========================
+   FONT IMPORT (if not in HTML)
+========================= */
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;600;700&family=Merriweather:wght@400;700&family=Fira+Code&display=swap');
 
+/* =========================
+   GLOBAL TYPOGRAPHY
+========================= */
+
+body {
+  font-family: 'Source Sans 3', sans-serif;
+  font-size: 17px;
+  line-height: 1.7;
+  color: #1a1a1a;
+}
+
+/* Headings */
+h1, h2, h3 {
+  font-family: 'Merriweather', serif;
+  font-weight: 700;
+  color: #0f172a;
+}
+
+/* Links */
+a {
+  color: #1d4ed8;
+}
+
+a:hover {
+  color: #1e40af;
+}
+
+/* =========================
+   LAYOUT POLISH
+========================= */
+
+main {
+  max-width: 900px;
+  margin: auto;
+}
+
+/* =========================
+   NAVIGATION
+========================= */
+
+nav a {
+  font-weight: 600;
+}
+
+/* =========================
+   CODE BLOCKS
+========================= */
+
+code, pre {
+  font-family: 'Fira Code', monospace;
+  background: #f4f4f5;
+  border-radius: 6px;
+}
+
+/* =========================
+   BUTTON (for your contact)
+========================= */
+
+.contact-button {
+  background: #1d4ed8;
+  color: white;
+  padding: 10px 16px;
+  border-radius: 6px;
+}
+
+.contact-button:hover {
+  background: #1e40af;
+}
+
+/* =========================
+   SUBTLE BACKGROUND
+========================= */
+
+body {
+  background: linear-gradient(to bottom, #ffffff, #f8fafc);
+}
