@@ -1,1 +1,5 @@
-_posts/2026-05-06-first-post.md
+---
+title: "My First Blog Post"
+---
+
+This is my first blog entry. I’ll be sharing research insights and updates here.
