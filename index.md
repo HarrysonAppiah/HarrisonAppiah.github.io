@@ -111,12 +111,7 @@ title: Home
 }
   </style>
 
-<div style="text-align: center; margin-top: 40px;">
-  <p style="font-size: 18px;"><strong>Interested in collaborating or have a question?</strong></p>
 
-  <p style="font-size: 16px; margin: 10px 0;">
-    📧 <a href="mailto:Appiah.harrison@yahoo.com">Appiah.harrison@yahoo.com</a>
-  </p>
 
   <div style="margin-top: 15px;">
     {% for item in site.external %}
