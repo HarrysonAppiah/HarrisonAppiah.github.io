@@ -18,10 +18,10 @@ show_minimal: false             # remove all clutter
 # Menu                          # for available icons see https://fontawesome.com/v5/icons/
 
 navigation:
-  - {file: "index.md", title: "Home"}
-  - {file: "research.md", title: "Research"}
-  - {file: "publications.md", title: "Publications"}
-  - {file: "resume.md", title: "Resume"}
+  - {url: "/", title: "Home"}
+  - {url: "/research/", title: "Research"}
+  - {url: "/publications/", title: "Publications"}
+  - {url: "/resume/", title: "Resume"}
   
  
 
