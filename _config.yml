@@ -22,7 +22,7 @@ navigation:
   - {url: "/research/", title: "Research"}
   - {url: "/publications/", title: "Publications"}
   - {url: "/resume/", title: "Resume"}
-   - { title: Blog, url: "/blog/" }
+  -{ title: Blog, url: "/blog/" }
   
  
 
