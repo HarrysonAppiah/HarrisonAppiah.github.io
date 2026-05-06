@@ -1,17 +1,13 @@
 ---
 layout: default
 title: "Blog"
+permalink: /blog/
 ---
 
-{% if site.show_excerpts %}
-  {% for post in site.posts %}
-    <article>
-      {% include meta.html post=post %}
-      {{ post.excerpt }}
-      <footer class="button"><a href="{{ post.url | relative_url }}">read more</a></footer>
-    </article>
-  {% endfor %}
-{% else %}
-  {% capture source %}{% include_relative archive.html title="Posts" %}{% endcapture %}
-  {{ source | split: "---" | last }}
-{% endif %}
+<h2>Blog Posts</h2>
+
+{% for post in site.posts %}
+  <div style="margin-bottom: 20px;">
+    <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+  </div>
+{% endfor %}
