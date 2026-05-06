@@ -111,20 +111,18 @@ title: Home
 }
   </style>
 
-<div style="text-align: center; margin-top: 30px;">
-  <p><strong>Interested in collaborating or have a question?</strong></p>
+<div style="text-align: center; margin-top: 40px;">
+  <p style="font-size: 18px;"><strong>Interested in collaborating or have a question?</strong></p>
 
-  <p style="font-size: 16px;">
-    📧 Appiah.harrison@yahoo.com
+  <p style="font-size: 16px; margin: 10px 0;">
+    📧 <a href="mailto:Appiah.harrison@yahoo.com">Appiah.harrison@yahoo.com</a>
   </p>
 
-  <a href="mailto:Appiah.harrison@yahoo.com" class="contact-button">
-    Contact Me
-  </a>
-
+  <div style="margin-top: 15px;">
+    {% for item in site.external %}
+      <a href="{{ item.url }}" style="margin: 0 10px; text-decoration: none;">
+        {{ item.title }}
+      </a>
+    {% endfor %}
+  </div>
 </div>
-<ul>
-{% for item in site.external %}
-  <li><a href="{{ item.url }}">{{ item.title }}</a></li>
-{% endfor %}
-</ul>
