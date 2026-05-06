@@ -1,2 +1,11 @@
-{% for item in include.menu %} <a href="{{ item.url }}">
-  {{ item.title }} </a> {% endfor %}
+{% for item in include.menu %}
+  <a href="{{ item.url }}">
+    <svg aria-hidden="true" width="1em" height="1em">
+      <use xlink:href="{{ "/assets/fontawesome/icons.svg" | relative_url }}#{{ item.icon }}"></use>
+    </svg>
+
+    {% unless include.menu == site.external %}
+      <span>{{ item.title }}</span>
+    {% endunless %}
+  </a>
+{% endfor %}
