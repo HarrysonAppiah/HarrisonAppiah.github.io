@@ -3,7 +3,62 @@
 
 @import utils, basic, layout, classes, rouge_github
 
-body > *
-  padding: 1.75em calc(42% - 16rem)
-  padding: clamp(1.5em, 4vw, 1.75em) max(1.5em, calc(42% - 16rem))
-  box-shadow: 0 1px gray(12), 0 1em 2em -1em rgba(light(16), .05)
+body
+  margin: 0
+  font-family: 'Inter', sans-serif
+  line-height: 1.7
+  background: #fafafa
+  color: #222
+
+.site-header
+  position: sticky
+  top: 0
+  z-index: 1000
+  background: rgba(255,255,255,.9)
+  backdrop-filter: blur(10px)
+  border-bottom: 1px solid rgba(0,0,0,.06)
+  padding: 1rem 0
+
+.container
+  width: min(1100px, 92%)
+  margin: auto
+
+.page-content
+  width: min(900px, 92%)
+  margin: auto
+  padding: 4rem 0
+
+.site-footer
+  margin-top: 4rem
+  padding: 2rem 0
+  border-top: 1px solid rgba(0,0,0,.08)
+  font-size: .95rem
+  opacity: .8
+
+h1, h2, h3
+  line-height: 1.15
+
+h1
+  font-size: clamp(2.4rem, 6vw, 4rem)
+
+h2
+  margin-top: 3rem
+
+p
+  max-width: 75ch
+
+img
+  max-width: 100%
+  border-radius: 16px
+
+article
+  animation: fadeIn .4s ease
+
+@keyframes fadeIn
+  from
+    opacity: 0
+    transform: translateY(8px)
+
+  to
+    opacity: 1
+    transform: translateY(0)
