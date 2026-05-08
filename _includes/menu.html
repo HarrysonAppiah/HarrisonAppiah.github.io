@@ -1,11 +1,26 @@
+<nav class="menu">
+
 {% for item in include.menu %}
-  <a href="{{ item.url }}">
-    <svg aria-hidden="true" width="1em" height="1em">
+
+  <a
+    class="menu-link {% if page.url == item.url %}active{% endif %}"
+    href="{{ item.url }}"
+    {% if include.menu == site.external %}target="_blank" rel="noopener noreferrer"{% endif %}
+    aria-label="{{ item.title }}"
+  >
+
+    {% if item.icon %}
+    <svg aria-hidden="true" class="menu-icon" width="1em" height="1em">
       <use xlink:href="{{ "/assets/fontawesome/icons.svg" | relative_url }}#{{ item.icon }}"></use>
     </svg>
+    {% endif %}
 
     {% unless include.menu == site.external %}
       <span>{{ item.title }}</span>
     {% endunless %}
+
   </a>
+
 {% endfor %}
+
+</nav>
