@@ -18,4 +18,6 @@ We are now developing efficient methods for:
 - Electrochemical upgrading
 - Deep eutectic solvent (DES) extraction
 - Enzymatic and microbial transformation
+  
+Lignin-based carbon fibers are particularly important for industries seeking lightweight and sustainable alternatives in aerospace, transportation, and structural materials. Commercial interest in lignin-derived carbon fibers continues to grow as researchers improve processing efficiency and mechanical performance.
 <!--more-->
