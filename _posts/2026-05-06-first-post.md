@@ -13,9 +13,9 @@ Lignin is the second most abundant natural polymer on Earth and the largest rene
 
 We are now developing efficient methods for:
 
--Catalytic depolymerization
--Oxidative conversion
--Electrochemical upgrading
--Deep eutectic solvent (DES) extraction
--Enzymatic and microbial transformation
+- Catalytic depolymerization
+- Oxidative conversion
+- Electrochemical upgrading
+- Deep eutectic solvent (DES) extraction
+- Enzymatic and microbial transformation
 <!--more-->
