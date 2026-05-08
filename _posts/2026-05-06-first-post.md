@@ -11,4 +11,11 @@ Lignin is now emerging as one of the most promising renewable feedstocks for adv
 
 Lignin is the second most abundant natural polymer on Earth and the largest renewable source of aromatic carbon. Found in the cell walls of plants, it provides rigidity, strength, and resistance against degradation. Unlike cellulose, which is carbohydrate-based, lignin contains complex aromatic structures similar to many petroleum-derived chemicals used in plastics, resins, and advanced composites.
 
+We are now developing efficient methods for:
+
+Catalytic depolymerization
+Oxidative conversion
+Electrochemical upgrading
+Deep eutectic solvent (DES) extraction
+Enzymatic and microbial transformation
 <!--more-->
