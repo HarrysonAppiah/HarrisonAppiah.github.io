@@ -37,15 +37,3 @@ comments:
 plugins:
  - jekyll-feed
 
-navigation:
-  - title: Research
-    url: /research/
-    icon: flask
-
-  - title: Publications
-    url: /publications/
-    icon: book
-
-  - title: Contact
-    url: /contact/
-    icon: envelope
