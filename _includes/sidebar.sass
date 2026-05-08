@@ -1,1 +1,57 @@
+.sidebar
+  position: fixed
+  top: 0
+  left: 0
+  width: 280px
+  height: 100vh
+  background: rgba(255,255,255,.85)
+  backdrop-filter: blur(16px)
+  border-right: 1px solid rgba(0,0,0,.06)
+  padding: 2rem 1.5rem
+  overflow-y: auto
 
+.sidebar-inner
+  display: flex
+  flex-direction: column
+  height: 100%
+
+.sidebar-brand
+  margin-bottom: 2rem
+
+.sidebar-brand a
+  font-size: 1.5rem
+  font-weight: 700
+  text-decoration: none
+
+.sidebar-nav
+  display: flex
+  flex-direction: column
+  gap: .5rem
+
+.sidebar-group
+  margin-bottom: 2rem
+
+.sidebar-link
+  display: flex
+  align-items: center
+  gap: .75rem
+  padding: .75rem 1rem
+  border-radius: 14px
+  text-decoration: none
+  transition: all .2s ease
+  opacity: .8
+
+.sidebar-link:hover
+  background: rgba(0,0,0,.05)
+  opacity: 1
+  transform: translateX(3px)
+
+.sidebar-link.selected
+  background: rgba(0,0,0,.08)
+  opacity: 1
+  font-weight: 600
+
+.sidebar-footer
+  margin-top: auto
+  font-size: .9rem
+  opacity: .65
