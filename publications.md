@@ -13,10 +13,7 @@ permalink: /publications/
       authors: "Appiah, H., Bar-Ziv, E., Klinger, J., & McDonald, A. G."
       type: journal
       venue: "ACS Sustainable Resource Management"
-      volume: 3
-      issue: 2
-      pages: "524–533"
-      publisher: "American Chemical Society"
+      volume: 3 issue: 2 pages: "524–533" publisher: "American Chemical Society"
       https://pubs.acs.org/doi/10.1021/acssusresmgt.5c00525
 
     - Waste-to-Energy Technologies and Their Role in Municipal Solid Waste Management
