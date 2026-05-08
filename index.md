@@ -123,20 +123,3 @@ title: Home
 </div>
 
 
-
-
-
-<section class="hero">
-  <div class="hero-content">
-    <h1>Sustainable Materials & Circular Economy Research</h1>
-
-    <p>
-      Advancing biomass valorization, polymer recovery,
-      and green solvent systems for next-generation materials science.
-    </p>
-
-    <a href="/research/" class="hero-button">
-      Explore Research
-    </a>
-  </div>
-</section>
