@@ -1,9 +1,4 @@
 
----
-layout: post
-title: "My Blog Post"
----
-
 # Monday Musings
 
 ## *Life for Rent: The Illusion of Ownership in a Borrowed World*
