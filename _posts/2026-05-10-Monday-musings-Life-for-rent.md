@@ -12,9 +12,10 @@ For years, we are taught that life follows a reliable formula:
 study hard, sacrifice sleep, collect degrees, build experience, survive interviews, and eventually arrive at stability. We are told education is an investment — that knowledge guarantees security and hard work guarantees dignity.
 
 Then reality interrupts the script.
-<!--more-->
+
 
 You graduate into a job market demanding *entry-level candidates with five years of experience*. Companies advertise “competitive salaries” that barely compete with rent, groceries, or peace of mind. Positions require mastery of ten different skills, availability beyond working hours, emotional resilience, leadership experience, technical certifications, and somehow still offer compensation that feels like survival rather than reward.
+<!--more-->
 
 It makes you wonder: what exactly are we working toward?
 
